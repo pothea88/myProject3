@@ -1,6 +1,25 @@
 h1{
     color: red;
 }
-ul{
-    color: blue;
+li a {
+   
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    width: 60px;
 }
+li {
+    display: block;
+   
+    display: inline;
+  }
+  ul {
+   
+    overflow: hidden;
+    background: blue;
+    margin-top: 0 auto;
+    margin: 10px;
+    padding: 10px;
+  }
+ 
